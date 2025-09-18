@@ -1,0 +1,1 @@
+Oto krótki opis projektu znajdującego się w folderze 'projekt-git'
